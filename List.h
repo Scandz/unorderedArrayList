@@ -1,5 +1,5 @@
 #pragma once
-
+// this is also different
 const int MaxSize = 15;
 typedef  int DataType;
 
